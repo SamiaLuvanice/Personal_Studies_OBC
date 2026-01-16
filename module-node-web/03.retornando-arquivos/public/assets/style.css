@@ -1,0 +1,18 @@
+body {
+  background-color: #333333;
+  color: rgba(240, 240, 240, 1);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  display: grid;
+  place-content: center;
+}
+
+button {
+  background-color: #555555;
+  color: rgba(240, 240, 240, 1);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}

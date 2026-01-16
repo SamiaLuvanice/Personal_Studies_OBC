@@ -1,0 +1,472 @@
+[2025-12-11T17:23:40.246Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 1 segundos |
+Memória RAM Total: 7.92 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:41.242Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 2 segundos |
+Memória RAM Total: 7.92 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:42.246Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 3 segundos |
+Memória RAM Total: 7.92 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:43.249Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 4 segundos |
+Memória RAM Total: 7.89 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:44.261Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 5 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:45.264Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 6 segundos |
+Memória RAM Total: 7.91 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:46.275Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 7 segundos |
+Memória RAM Total: 7.94 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:47.278Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 8 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:48.280Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 9 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:49.291Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 10 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:50.306Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 11 segundos |
+Memória RAM Total: 7.89 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:51.319Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 12 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:52.333Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 13 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:53.348Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 14 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:54.362Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 15 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:23:55.373Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 16 segundos |
+Memória RAM Total: 7.85 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:23:56.375Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 17 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:23:57.383Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 18 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:23:58.397Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 19 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:23:59.404Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 20 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:00.403Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 21 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:01.404Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 22 segundos |
+Memória RAM Total: 7.85 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:02.418Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 23 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:03.431Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 24 segundos |
+Memória RAM Total: 7.85 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:04.444Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 25 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:05.453Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 26 segundos |
+Memória RAM Total: 7.86 GB / 11.83 GB ( 66.00%)
+-----
+
+[2025-12-11T17:24:06.459Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 27 segundos |
+Memória RAM Total: 7.87 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:07.466Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 28 segundos |
+Memória RAM Total: 7.89 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:08.477Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 29 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:09.492Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 30 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:10.493Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 31 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:11.493Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 32 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:12.498Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 33 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:13.507Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 34 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:14.513Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 35 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:15.530Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 36 segundos |
+Memória RAM Total: 7.90 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:16.532Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 37 segundos |
+Memória RAM Total: 7.91 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:20.159Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 41 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:21.150Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 42 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:22.151Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 43 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:23.165Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 44 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:24.165Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 45 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:25.169Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 46 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:26.173Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 47 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:27.188Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 48 segundos |
+Memória RAM Total: 7.97 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:28.196Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 49 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:29.209Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 50 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:30.218Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 51 segundos |
+Memória RAM Total: 7.96 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:31.230Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 52 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:32.238Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 53 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:33.254Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 54 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:34.268Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 55 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:35.282Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 56 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:36.288Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 57 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:37.297Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 58 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:38.299Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 1 minutos e 59 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:39.301Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 2 minutos e 0 segundos |
+Memória RAM Total: 7.93 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:40.313Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 2 minutos e 1 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+
+[2025-12-11T17:24:41.318Z] DETALHES DO SISTEMA:
+Sistema Operacional: Windows |
+Arquitetura: x64 |
+Modelo do Processador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz |
+Tempo de Atividade: 14 dias, 9 horas, 2 minutos e 2 segundos |
+Memória RAM Total: 7.95 GB / 11.83 GB ( 67.00%)
+-----
+

@@ -1,0 +1,1 @@
+console.log("Olá, mundo! Este é um script JavaScript executado no terminal.");
