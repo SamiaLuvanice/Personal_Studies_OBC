@@ -4,18 +4,16 @@ const client = new Client({
     connectionString: 'postgresql://postgres:1797@localhost:5433/node_postgres',
 });
 
-async function openConnestion() {
-    await client.connect()
+async function openConnection() {
+    await client.connect();
 
-    const result = await client.query("SELECT 1 + 1 AS resultado;");
-    console.log(result.rows)
+    const result = await client.query("SELECT 1 + 1  AS resultado");
+    console.log(result.rows);
 
     setTimeout(() => {
-        client.end()
-        console.log("Fechando conexão...")
+        client.end();
+        console.log("Connection closed...");
     }, 5000);
-};
+}
 
-openConnestion();
-
-openConnestion();
+openConnection();

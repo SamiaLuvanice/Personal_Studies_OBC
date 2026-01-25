@@ -1,20 +1,19 @@
 const { Pool } = require("pg")
 
-
 const pool = new Pool({
     connectionString: 'postgresql://postgres:1797@localhost:5433/node_postgres',
     max: 2
 });
 
-async function queryRapida(params) {
-    const result = await pool.query("SELECT 1 + 1 AS soma")
-    console.log(result.rows[0])
+async function queryRapida() {
+    const  result = await pool.query("SELECT 2 + 2 AS soma");
+    console.log(result.rows);
+}
 
-    setTimeout(() => {
-        console.log("Fechando conexão...")
-
-    }, 3000)
-};
+setTimeout(() => {
+    pool.end();
+    console.log("Pool has ended...");
+}, 2000);
 
 queryRapida();
 queryRapida();
