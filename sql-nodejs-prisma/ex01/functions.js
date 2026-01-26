@@ -75,12 +75,12 @@ async function sellTicket(eventId, numberOfTickets) {
   const now = new Date();
   const eventDate = new Date(event.eventDate);
 
-  if (eventDate > now && event.ticketsSold < event.totalTickets) {
+  if (eventDate > now && event.ticketsSold + numberOfTickets <= event.totalTickets) {
     await query(
       `UPDATE events 
-            SET tickets_sold = tickets_sold + 1 
-            WHERE id = $1`,
-      [eventId],
+            SET tickets_sold = tickets_sold + $1 
+            WHERE id = $2`,
+      [numberOfTickets, eventId],
     );
     console.log(`Sold ${numberOfTickets} tickets for event '${event.name}'.`);
   } else {
