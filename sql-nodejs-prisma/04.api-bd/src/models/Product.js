@@ -29,11 +29,15 @@ class Product {
 
   static async findById(id) {
     const result = await query("SELECT * FROM products WHERE id = $1", [id]);
+    if (!result.rows[0]) return null;
+
     return new Product(result.rows[0]);
   }
 
   static async update(id, attributes) {
     const { rows } = await query("SELECT * FROM products WHERE id = $1", [id]);
+    if (!rows[0]) return null;
+    
     const product = new Product(rows[0]);
 
     Object.assign(product, attributes);

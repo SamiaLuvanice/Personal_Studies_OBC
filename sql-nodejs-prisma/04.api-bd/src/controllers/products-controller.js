@@ -16,17 +16,25 @@ const productsController = {
   // GET /products/:id
   show: async (req, res) => {
     const product = await Product.findById(req.params.id);
+    if (product === null) {
+      return res.status(404).json({ error: "Product not found" });
+    }
     res.json(product);
   },
 
   // PUT /products/:id
   update: async (req, res) => {
-    res.send(`Update product with ID: ${req.params.id}`);
+    const updatedProduct = await Product.update(req.params.id, req.body);
+    if (updatedProduct === null) {
+      return res.status(404).json({ error: "Product not found" });
+    }
+    res.json(updatedProduct);
   },
 
   // DELETE /products/:id
   delete: async (req, res) => {
-    res.send(`Delete product with ID: ${req.params.id}`);
+    await Product.delete(req.params.id);
+    res.status(204).send();
   },
 };
 
