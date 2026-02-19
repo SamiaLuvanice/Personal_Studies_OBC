@@ -107,6 +107,7 @@ class Order {
             WHERE orders.id = $1;`,
             [id]
         )
+        
         const orderProductsResult = await query(
             `SELECT order_products.*, products.*
             FROM order_products JOIN products ON order_products.product_id = products.id
