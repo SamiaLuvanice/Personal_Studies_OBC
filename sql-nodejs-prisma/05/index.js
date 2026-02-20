@@ -9,22 +9,29 @@ const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
 async function main() {
-  await prisma.post.createMany({
-    data: [
-      {
-        title: "Olá, mundo!",
-        content: "This is the content of my first post created with prisma.",
-        published: true,
+  await prisma.user.create({
+    data: {
+      name: "Sâmia",
+      email: "samia@email.com",
+      posts: {
+        create: [
+          {
+            title: "My first post",
+            content: "This is my first post content",
+            slug: "my-first-post",
+          },
+        ],
       },
-      {
-        title: "My second post",
-        content: null,
-      },
-    ],
+    },
   });
+
+  const result = await prisma.user.findMany({
+    include: {
+      posts: true,
+    },
+  });
+  
+  console.log(result, result[0].posts);
 }
 
-main().then(async () => {
-  const result = await prisma.post.findMany();
-  console.table(result);
-});
+main();
